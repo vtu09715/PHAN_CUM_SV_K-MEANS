@@ -10,6 +10,7 @@
 # link video: https://youtu.be/q79TrHhgKhk?si=NGLabPlIgxAmxRJ8
 # CODE CHƯƠNG TRÌNH 
 
+```python
 import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
@@ -80,6 +81,7 @@ bang_xuat.to_excel("ketqua_phanCum.xlsx", index=False)
 
 print("Đã xuất file ketqua_phanCum.xlsx đúng định dạng")
 
+```
 
 
 
